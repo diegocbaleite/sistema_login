@@ -57,10 +57,6 @@ Coloque os arquivos na pasta htdocs.
 
 Acesse http://localhost/sistema_login no navegador.
 
-📷 Capturas de Tela
-
-(Adicione imagens do sistema aqui, se possível)
-
 📜 Licença
 
 Este projeto é de código aberto e pode ser modificado conforme necessário.
